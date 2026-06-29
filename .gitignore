@@ -1,0 +1,9 @@
+# Ambiente Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
